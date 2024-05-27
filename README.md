@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on **Data Engineering**
-- 🌱 I’m upskilling in **Advanced Data Engineering**
+- 🌱 I’m upskilling in **Data Engineering**
 - 👯 I’m looking to collaborate with fellow developers on amazing projects
 - 💬 Ask me about **Data Engineering, Python, Django, and Web Development**
 - 📫 How to reach me: <a href="mailto:gowthamhsm@gmail.com" target="blank"> gowthamhsm@gmail.com</a>, <a target="blank" href="https://www.linkedin.com/in/hsmgowtham"  > linkedin/in/hsmgowtham</a> 
