@@ -9,4 +9,3 @@
 - 📫 How to reach me: <a href="mailto:gowthamhsm@gmail.com" target="blank"> gowthamhsm@gmail.com</a>, <a target="blank" href="https://www.linkedin.com/in/hsmgowtham"  > linkedin/in/hsmgowtham</a> 
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I like **Peter Griffin from Family Guy**
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsmgowtham&theme=dark" alt="somadisingh" /></p>
