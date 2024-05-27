@@ -1,7 +1,3 @@
-<p align = "center">
-<!--  <img src = "https://github.com/hsmgowtham/hsmgowtham/assets/123358865/10ee3973-a733-4cb5-8cbd-9b1313dba836.gif" width="500"/>
-<!--   <img src = "https://github.com/hsmgowtham/hsmgowtham/assets/123358865/10ee3973-a733-4cb5-8cbd-9b1313dba836.gif" width="500"/> -->
-</p> -->
 <h1 align="center">Hey 👋, I'm Gowtham Hanumanthu</h1>
 
 
