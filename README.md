@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Gowtham Hanumanthu</h1>
 
-🚀 Building scalable data pipelines | 🐍 Python Enthusiast | 🌐 Web Development Fan
+🚀 Building scalable data pipelines | 🐍 Python Enthusiast | 🌐 Seasonal Web Developer
 
 💡 Turning data into insights and ideas into reality.
 
